@@ -33,3 +33,7 @@ Small registry contract.
 
 | WARNING: Untested!
 | --- |
+
+## openssl
+
+Generate encryption/decryption keys and certificates.
