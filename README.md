@@ -27,13 +27,6 @@ An example how to create random Ethereum private and korresponding public keys, 
 | NOTE: Maybe you need to install `pysha3` and `eth_keys` via `pip`.
 | --- |
 
-## websiteRegistry.sol
-
-Small registry contract.
-
-| WARNING: Untested!
-| --- |
-
 ## openssl
 
 Generate encryption/decryption keys and certificates.
